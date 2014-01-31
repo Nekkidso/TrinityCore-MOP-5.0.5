@@ -169,7 +169,7 @@ CREATE TABLE `realmlist` (
   UNIQUE KEY `idx_name` (`name`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Realm System';
 
-INSERT INTO `realmlist` VALUES (1, 'Test', '127.0.0.1', 8085, 0, 2, 0, 0, 0, 0, 16135);
+INSERT INTO `realmlist` VALUES (1, 'MistCore', '127.0.0.1', 8085, 0, 2, 0, 0, 0, 0, 16135);
 
 /*Table structure for table `transferts` */
 
